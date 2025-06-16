@@ -41,11 +41,7 @@ Android Studio, Xcode, or VS Code with Flutter plugin
 Clone the repo
 git clone https://github.com/yourusername/pincode_lookup_app.git
 
-cd pincode_lookup_app
-
 Install dependencies
-
-flutter pub get
 
 Run the app
 
